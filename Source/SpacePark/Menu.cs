@@ -7,29 +7,6 @@ namespace SpacePark
     {
 
 
-        /*
-         * 
-         * 
-         * Är tillbaka kl 13 
-         * 
-         * 
-         * 
-         * 
-         * 
-         * 
-         */
-
-
-
-
-
-
-
-
-
-
-     
-       
         public int ShowMenu(string prompt, List<string> options)
         {
             

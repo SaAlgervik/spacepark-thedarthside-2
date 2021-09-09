@@ -12,6 +12,6 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore Source/SpacePark.sln   
       - name: Build
-        run: dotnet build Source/SpacePark.sln
+        run: dotnet build --no-restore Source/SpacePark.sln
    
  
